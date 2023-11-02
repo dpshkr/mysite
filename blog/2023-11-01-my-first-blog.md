@@ -13,4 +13,4 @@ Hello How are you ?
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies.
 Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet A simple math equation $(a+b)^2$
 
-![Alt text](/static/img/computer_ad_01.png)
+![Alt text](img/computer_ad_01.png)
