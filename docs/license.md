@@ -23,7 +23,3 @@ but not in any way that suggests the licensor endorses you or your use.
 
 **No additional restrictions** - You may not apply legal terms or technological measures.
 that legally restrict others from doing anything the license permits. 
-
-You can read more about the license [here](https://creativecommons.org/licenses/by/4.0/)
-
-
