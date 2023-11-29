@@ -4,8 +4,6 @@ sidebar_position: 1
 
 # License
 
-![CC-BY license](https://upload.wikimedia.org/wikipedia/commons/e/e1/CC_BY_icon.svg)
-
 All content of this site is licensed under Creative Commons Attribution 4.0
  license (CC-BY 4.0). Under this license, you are free to: 
 
