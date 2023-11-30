@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Two-Dimensional MOS Capacitor
 
 In this article, we will explore the two-dimensional MOS capacitor, 
