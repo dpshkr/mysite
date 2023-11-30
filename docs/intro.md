@@ -21,3 +21,5 @@ but not in any way that suggests the licensor endorses you or your use.
 
 **No additional restrictions** - You may not apply legal terms or technological measures.
 that legally restrict others from doing anything the license permits. 
+
+$(a+b)^2 = a^2 + b^2 + 2ab$
