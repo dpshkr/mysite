@@ -17,7 +17,7 @@ Extending the analysis presented here to the asymmetric case should be straightf
 ## Some Initial Observations
 
 The semiconducting layer is ultra-thin in nature. 
-For analysis using classical electrostatics we will assume the thickness of the semiconductor to be zero.
+For analysis using classical electrostatics, we will assume the thickness of the semiconductor to be zero.
 This assumption is reasonably valid in the monolayer limit but might cease to be valid in a few-layer system.
 The zero thickness of the semiconductor ensures that there is no electrostatic potential variation along its thickness !!
 This contrasts with the regular MOS capacitor, where electrostatic potential can vary along its body,
@@ -25,6 +25,6 @@ giving rise to what is called "band-bending" in a 3D MOS capacitor.
 The 2D MOS capacitor, on the other hand, has no band bending. 
 It only has what we would call "band-movement". 
 The semiconducting layer, therefore, is at a single potential given by $\phi_s$.
-The central problem we will try to solve is to find this potential, $\ph_s$ 
+The central problem we will try to solve is to find this potential, $\phi_s$ 
 given the gate bias and the properties of various materials in the device.
 Later, when we look at transistors, this potential will vary along the lateral direction of the semiconductor.
