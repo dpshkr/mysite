@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # License
 
+![CC-BY License Logo](https://upload.wikimedia.org/wikipedia/commons/e/e1/CC_BY_icon.svg)
+
 All content of this site is licensed under Creative Commons Attribution 4.0
  license (CC-BY 4.0). Under this license, you are free to: 
 
@@ -11,7 +13,7 @@ All content of this site is licensed under Creative Commons Attribution 4.0
 
 **Adapt** - remix, transform, and build upon the material for any purpose, even commercially. 
 
-The licensor cannot revoke these freedoms as long as you follow the license terms, 
+The licensor cannot revoke these freedoms as long as you follow the license, 
  under the following terms:
 
 **Attribution** : You must give appropriate credit , 
@@ -21,3 +23,5 @@ but not in any way that suggests the licensor endorses you or your use.
 
 **No additional restrictions** - You may not apply legal terms or technological measures.
 that legally restrict others from doing anything the license permits. 
+
+You can read more about the license [here](https://creativecommons.org/licenses/by/4.0/).
