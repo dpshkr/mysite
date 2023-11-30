@@ -14,7 +14,7 @@ both the insulators are identical (in thickness and dielectric constant), and an
 applied to both the gate electrodes. 
 Extending the analysis presented here to the asymmetric case should be straightforward and  trivial.
 
-## Some Initial Observations
+## Band-Bending vs Band-Movement
 
 The semiconducting layer is ultra-thin in nature. 
 For analysis using classical electrostatics, we will assume the thickness of the semiconductor to be zero.
@@ -28,3 +28,18 @@ The semiconducting layer, therefore, is at a single potential given by $\phi_s$.
 The central problem we will try to solve is to find this potential, $\phi_s$ 
 given the gate bias and the properties of various materials in the device.
 Later, when we look at transistors, this potential will vary along the lateral direction of the semiconductor.
+
+## 2D MOS Capaitor Analysis
+
+Let us consider a 2D semiconductor sheet with energy band-gap $E_G$. 
+When the semiconductor is at zero electrostatic potential, $\phi_s = 0$, 
+the conduction band of the semiconductor is located at $D$ eV above the Fermi energy, $E_F$.
+The Fermi energy is constant, $E_F=0$, because the semiconductor is grounded as shown in the figure above.
+The parameter $D$ indicates the doping in the material. 
+A small $D$ means an *n*-type material, since the conduction band is very near the Fermi level. 
+An intrinsic semiconductor would typically have $D \approx E_G/2$.
+A very large $D$ would indicate a *p*-type material.
+
+Now, if the semiconducting sheet is at a non-zero electrostatic potential $\phi_s$.
+the energy bands would move towards the Fermi level by an amount of $\phi_s$ eV,
+
