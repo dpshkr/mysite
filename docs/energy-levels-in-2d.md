@@ -1,5 +1,9 @@
-Energy Levels in 2D Semiconductors
-===================================
+---
+sidebar_position: 2
+---
+
+# Energy Levels in 2D Semiconductors
+
 
 2D materials are atomically thin sheets.
 As a result, the electrons in a 2D material are confined in one direction while free in the other two directions.
@@ -13,8 +17,7 @@ The Schrodinger equation for electrons in such a system is
 The electron  potential depends only on $z$ due to its confinement.
 The $V(z)$ is an infinite potential well, shown in the figure below.
 
-.. image:: _static/infinite-potential-well.png
-    :width: 300
+![Infinite potential well](/img/infinite-potential-well.png)
 
 The above problem can be easily solved by separating the variables.
 We can write the wavefunction $\Psi$ of the electron as $\Psi = \Psi_{xy} \Psi_z$,
@@ -49,8 +52,7 @@ $$E = \frac{\hbar^2}{2m} (k_x^2 + k_y^2) +  \frac{n^2\pi^2\hbar^2}{2mL^2},\ n=1,
 4. Often, it is convenient to define $n$ as the *principal* quantum number. All the energy states that have a given principal quantum number are said to belong to $n^{th}$ subband. For example, all the electrons having $n=2$ are said to be in the second subband.
 
 
-.. image:: _static/allowed-energy-levels.png
-    :width: 300
+![Allowed Energy Levels](/img/allowed-energy-levels.png)
 
 The above diagram schematically represents the energy levels of the system.
 The discrete energy levels of $E_z$ are marked $E_z^1$, $E_z^2$ and $E_z^3$
