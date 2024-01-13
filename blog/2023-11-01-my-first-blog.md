@@ -12,5 +12,3 @@ tags: [hola, docusaurus]
 Hello How are you ?
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies.
 Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet A simple math equation $(a+b)^2$
-
-
